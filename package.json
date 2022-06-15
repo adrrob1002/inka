@@ -7,6 +7,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.2.1",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "firebase": "7.17.1",
+    "framer-motion": "^6",
     "next": "12.1.4",
     "react": "18.0.0",
     "react-dom": "18.0.0"
